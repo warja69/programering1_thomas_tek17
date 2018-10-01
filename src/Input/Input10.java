@@ -1,5 +1,6 @@
+package Input;
 
-public class Primitiv4 {
+public class Input10 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
